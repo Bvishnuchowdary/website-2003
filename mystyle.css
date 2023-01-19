@@ -1,0 +1,86 @@
+body{
+    /*background-color: #222222;*/
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.PNsLEYSwJaSoGdyNVMC7CQHaEK&pid=Api&P=0');
+    margin-left: 0px;
+    padding-top: 100px;
+    text-align: center;
+    position: relative;
+    font-family: 'Charm', cursive;
+    color: whitesmoke;
+
+}
+.mail{
+    background-image: image("C:\Users\vishnu bollineni\Downloads\Web_Development\css\css-my site\MAIL ME.png ");
+    color: whitesmoke;
+    font-size: 2rem;
+}
+
+
+/*.first{
+    
+    https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=600
+    width: 200px;
+    height: 200px;
+    color: whitesmoke;
+}*/
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.525rem;
+}
+.top-cloud{
+position:absolute;
+margin-left: 400px;
+margin-bottom: 150px;
+}
+.bottom-cloud{
+    position:absolute;
+    margin-right: 200px;
+}
+.img1{
+   position: relative;
+   background-color: #C0EEE4;
+   color:#C0EEE4 ;
+   height: 150px;
+   width: 150px;
+}
+.my-profile{
+    border-radius: 100%;
+   position: relative;
+   background-color: #C0EEE4;
+   color:#C0EEE4 ;
+   height: 200px;
+   width: 200px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    column-width: 10px;
+}
+
+hr{
+    height:0px;
+    width: 30%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:whitesmoke;
+    border-width: 5px;
+}   
+
+a{
+    color: blue;
+}
+
+moon{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 100px;
+    position: relative;
+}
+.mail-me{
+    color:white;
+}
